@@ -1,0 +1,3 @@
+C:/Users/David/Documents/GitHub/SortedBag/cmake-build-debug/CMakeFiles/SortedBag.dir
+C:/Users/David/Documents/GitHub/SortedBag/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/David/Documents/GitHub/SortedBag/cmake-build-debug/CMakeFiles/rebuild_cache.dir

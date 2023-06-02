@@ -1,0 +1,27 @@
+# ninja log v5
+13	190	7073305806379330	CMakeFiles/SortedBag.dir/ShortTest.cpp.obj	31da58d1b195d117
+19	195	7073305806420119	CMakeFiles/SortedBag.dir/SortedBagIterator.cpp.obj	bb1110d83bd4f778
+7	566	7073305810125291	CMakeFiles/SortedBag.dir/App.cpp.obj	a508a7c6c7248304
+25	601	7073305810467807	CMakeFiles/SortedBag.dir/SortedBag.cpp.obj	116b0ae5411d94cd
+0	634	7073305810797814	CMakeFiles/SortedBag.dir/ExtendedTest.cpp.obj	8c959b6a0129e834
+634	876	7073305813164445	SortedBag.exe	6d86e3b3e4197848
+16	145	7073307160955386	CMakeFiles/SortedBag.dir/ShortTest.cpp.obj	31da58d1b195d117
+22	170	7073307161226927	CMakeFiles/SortedBag.dir/SortedBagIterator.cpp.obj	bb1110d83bd4f778
+4	493	7073307164463051	CMakeFiles/SortedBag.dir/App.cpp.obj	a508a7c6c7248304
+10	537	7073307164894720	CMakeFiles/SortedBag.dir/ExtendedTest.cpp.obj	8c959b6a0129e834
+28	574	7073307165264729	CMakeFiles/SortedBag.dir/SortedBag.cpp.obj	116b0ae5411d94cd
+574	710	7073307166598848	SortedBag.exe	6d86e3b3e4197848
+15	155	7074025829038440	CMakeFiles/SortedBag.dir/SortedBag.cpp.obj	116b0ae5411d94cd
+22	176	7074025829245434	CMakeFiles/SortedBag.dir/ShortTest.cpp.obj	31da58d1b195d117
+28	197	7074025829458031	CMakeFiles/SortedBag.dir/SortedBagIterator.cpp.obj	bb1110d83bd4f778
+3	508	7074025832579833	CMakeFiles/SortedBag.dir/App.cpp.obj	a508a7c6c7248304
+9	570	7074025833204410	CMakeFiles/SortedBag.dir/ExtendedTest.cpp.obj	8c959b6a0129e834
+571	826	7074025835720404	SortedBag.exe	6d86e3b3e4197848
+4	120	7074030854669534	CMakeFiles/SortedBag.dir/SortedBag.cpp.obj	116b0ae5411d94cd
+121	372	7074030857139570	SortedBag.exe	6d86e3b3e4197848
+18	135	7074049548585489	CMakeFiles/SortedBag.dir/SortedBag.cpp.obj	116b0ae5411d94cd
+13	153	7074049548777740	CMakeFiles/SortedBag.dir/ShortTest.cpp.obj	31da58d1b195d117
+23	169	7074049548947735	CMakeFiles/SortedBag.dir/SortedBagIterator.cpp.obj	bb1110d83bd4f778
+3	472	7074049551968792	CMakeFiles/SortedBag.dir/App.cpp.obj	a508a7c6c7248304
+8	533	7074049552580256	CMakeFiles/SortedBag.dir/ExtendedTest.cpp.obj	8c959b6a0129e834
+533	666	7074049553888935	SortedBag.exe	6d86e3b3e4197848
